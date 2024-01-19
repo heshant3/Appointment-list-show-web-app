@@ -78,7 +78,7 @@ const Appointment = () => {
                 <div className="Icon2">
                   <IoCheckmarkDoneCircle
                     className="Icon_1"
-                    color={appointment.check === "0" ? "#00ff00" : "#f5f4f9"}
+                    color={appointment.check === "0" ? "#02a533" : "#f5f4f9"}
                   />
                 </div>
               </div>
