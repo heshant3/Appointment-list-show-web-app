@@ -10,7 +10,7 @@ const Preloader = () => {
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        height: "100%", // Use 100vh to cover the full height of the viewport
+        height: "100dvh", // Use 100vh to cover the full height of the viewport
       }}
     >
       {/* Use Lottie animation */}

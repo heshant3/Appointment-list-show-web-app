@@ -226,3 +226,9 @@
     font-size: 3vw;
   }
 }
+
+@media (min-width: 600px) and (max-width: 1280px) {
+  .footerText {
+    font-size: 2vw;
+  }
+}
