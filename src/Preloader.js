@@ -18,7 +18,7 @@ const Preloader = () => {
         animationData={animationData}
         loop
         autoPlay
-        style={{ width: "600px", height: "600px" }}
+        style={{ width: "300px", height: "300px" }}
       />
 
       {/* Use Loader component */}

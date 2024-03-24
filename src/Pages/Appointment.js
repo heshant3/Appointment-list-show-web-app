@@ -94,21 +94,7 @@ const Appointment = () => {
         ))}
       </div>
 
-      <footer className="footer">
-        <footer>
-          <p className="footerText">
-            This System Developed by{" "}
-            <a
-              className="myname"
-              href="https://heshan.dev/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Heshan
-            </a>
-          </p>
-        </footer>
-      </footer>
+      <footer className="footer"></footer>
     </div>
   );
 };
